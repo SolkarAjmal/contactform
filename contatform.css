@@ -1,0 +1,20 @@
+body {
+    background-color: #fbeec1;
+    text-align: center;
+    
+}
+div{
+
+    border: solid; width:fit-content ;
+    border-width: 2px 2px 2px 2px;
+margin: auto;
+padding: 10px;
+
+}
+button {
+    color: black;
+    background-color: #daad86;
+}
+form{
+    width: 350px;
+}
