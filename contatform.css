@@ -3,6 +3,9 @@ body {
     text-align: center;
     
 }
+h2{
+    color: antiquewhite;
+}
 div{
 
      width: fit-content;
@@ -15,10 +18,26 @@ button {
     color: white;
     background-color:red;
     width: 150px;
+    height: 30px;
+    border-radius: 5px;
 }
 form{
-    width: 300px;
+    width: 350px;
     color: rgb(34, 54, 238);
   background-color: white;
  
+}
+input{
+    width: 250px;
+    padding: 12px 20px;
+    margin: 5px 0;
+    border: 2px solid rgb(36, 165, 111);
+    border-radius: 5px;
+    background-color: antiquewhite;
+}
+textarea{
+    width: 300px;
+    border: 2px solid rgb(36, 165, 111);
+    border-radius: 5px;
+    background-color: rgb(169, 233, 196);
 }
