@@ -1,20 +1,24 @@
 body {
-    background-color: #fbeec1;
+    background-color: #063333;
     text-align: center;
     
 }
 div{
 
-    border: solid; width:fit-content ;
-    border-width: 2px 2px 2px 2px;
+     width: fit-content;
+    
 margin: auto;
-padding: 10px;
+padding: 5px;
 
 }
 button {
-    color: black;
-    background-color: #daad86;
+    color: white;
+    background-color:red;
+    width: 150px;
 }
 form{
-    width: 350px;
+    width: 300px;
+    color: rgb(34, 54, 238);
+  background-color: white;
+ 
 }
